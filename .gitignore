@@ -1,0 +1,7 @@
+*.exe
+*.zip
+*.partial
+.env*
+*.pem
+*.key
+.vercel/
